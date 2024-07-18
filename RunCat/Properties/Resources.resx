@@ -292,4 +292,124 @@
   <data name="light_horse_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\horse\light_horse_13.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="dark_kitty_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_10.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_11.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_12.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_13.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_14.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_15.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_16.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_17.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_18.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_19.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dark_kitty_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\dark_kitty_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_0.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_1.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_10.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_11.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_12.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_13.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_14" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_14.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_15.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_16.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_17" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_17.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_18" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_18.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_19" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_19.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_2.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_3.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_4.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_5.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_6.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_7.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_8.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="light_kitty_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\kitty\light_kitty_9.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
